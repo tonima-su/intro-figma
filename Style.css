@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins;
+}
+.container{
+    width: 1280px;
+    margin: auto;
+}
+.logo{
+    width: 100px;
+    margin: auto;
+
+}
+.head{
+    background-color: #FEFFF5;
+}
+.head-line{
+    width: 827px;
+    margin: auto;
+
+}
+.head-line h1{
+    width: 827px;
+    color: #0A8080;
+    font-weight: 700;
+    
+}
+.head-line p{
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+.blog{
+    color: #0A8080;
+    margin: auto;
+    width: 178px;
+}
+.meeting{
+    width: 601px;
+    margin: auto;
+}
+.btn{
+    width: 150px;
+    margin: 20px auto ;
+    
+}
+button{
+    padding: 8px 40px;
+    background-color: #0A8080; 
+    border-radius: 10px;  
+    border: none;
+    color: white;
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.box{
+    width: 942px;
+    border-radius: 10px;
+    margin:20px auto;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    background-color:#FEFFF5;
+}
+.box h3{
+    width: 800px;
+    font-weight: 700;
+}
+.blog{
+    margin: 40px auto;
+}
+footer{
+    color: white;
+    background-color: #0A8080;
+    
+
+}
+footer p{
+    width: 460px;
+    padding: 14px;
+    margin: auto;
+}
